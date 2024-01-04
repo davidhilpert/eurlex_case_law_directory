@@ -1,6 +1,6 @@
 # eurlex_case_law_directory
 
-Python code to create mapping between case-law directory classification before and after the Treaty of Lisbon (in effect since 2010). The code takes the pre-Lisbon classification scheme and assigns post-Lisbon categories, where applicable. 
+Python code to create mapping between case-law directory classification before and after the Treaty of Lisbon (in effect since 2010). The code takes the pre-Lisbon classification scheme (level 1 and 2) and assigns post-Lisbon categories, where applicable. 
 
 Code can be plugged into your data project. 
 
