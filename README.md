@@ -1,10 +1,10 @@
 # eurlex_case_law_directory
 
-Python code to create mapping between case-law directory classification before and after the Treaty of Lisbon (in effect since 2010). The code takes the pre-Lisbon classification scheme (level 1 and 2) and assigns post-Lisbon categories, where applicable. 
+Scholars of the Court of Justice of the European Union (CJEU) are interested in the development of case-law over time. However, the CJEU implemented a fundamental change to the classification scheme in its directory of case-law after the Treaty of Lisbon (in effect since 2010). Link to source: https://eur-lex.europa.eu/browse/directories/new-case-law.html
 
-Code can be plugged into your data project. 
+Here I offer some Python code to create a mapping between the case-law directory classification schemes before and after Lisbon. The code takes the pre-Lisbon classification scheme (level 1 and 2) and assigns post-Lisbon categories, where applicable. 
 
-The purpose is to simplify the comparison of case-law development in the EU over time.
+The code can be plugged into your data project. 
 
-Link to source: https://eur-lex.europa.eu/browse/directories/new-case-law.html
+
 
