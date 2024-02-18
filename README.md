@@ -4,7 +4,7 @@ Scholars of the Court of Justice of the European Union (CJEU) are interested in 
 
 Here I offer some Python code to create a mapping between the case-law directory classification schemes before and after Lisbon. The code takes the pre-Lisbon classification scheme (level 1 and 2) and assigns post-Lisbon categories, where applicable. Doing so, it bridges the break from changing classification scheme, allowing researchers to make full use of the entire history of case-law. 
 
-The code can be plugged into your data project. 
+The code can be plugged into your data project. Dependencies: `pandas`. Assumptions: directory codes stored in pandas dataframe `df["target column"]`.
 
 (1) Link to source: https://eur-lex.europa.eu/browse/directories/new-case-law.html
 
